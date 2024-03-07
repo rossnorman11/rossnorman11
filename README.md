@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movie Recommendation GPT](https://github.com/rossnorman11/movie_recommendation_GPT)
 
-- 🌱 I’m currently learning **prompt engineering**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 📫 How to reach me **rossnorman11@gmail.com**
 
